@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godiiking&label=Profile%20views&color=0e75b6&style=flat" alt="godiiking" /> </p>
+<a href="https://wakatime.com/@018b3cc3-7b90-417e-a187-9fbfb227bd91"><img src="https://wakatime.com/badge/user/018b3cc3-7b90-417e-a187-9fbfb227bd91.svg" alt="Total time coded since Oct 17 2023" /></a>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
@@ -25,3 +27,4 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=godiiking&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/godiiking/github-readme-stats#gh-dark-mode-only)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GODiiKING&theme=dark" alt="GitHub Streak" /></a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=godiking&theme=dark)](https://github.com/godiiking/github-readme-stats)
