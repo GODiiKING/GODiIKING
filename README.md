@@ -14,6 +14,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
 
 
