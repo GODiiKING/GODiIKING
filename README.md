@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=godiiking&theme=dark&show_icons=true&hide_border=true&layout=compact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godiiking&theme=dark&show_icons=true&hide_border=true&layout=compact alt="godiiking" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
 
