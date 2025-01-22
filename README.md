@@ -12,7 +12,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" />
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godiiking&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="godiiking's GitHub Stats" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godiiking&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="godiiking's GitHub Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godiiking&show_icons=true&locale=en&layout=compact&theme=dark" alt="godiiking" /></p>
 
 
